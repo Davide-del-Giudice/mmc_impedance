@@ -1,4 +1,4 @@
-# MMC-PAC
+# Read me
 
 The folder contains all the files needed to generate the simulation results of the paper *"Determination of Modular Multilevel Converters Admittances and Their Impacts on HVDC Power System Stability"*.
 For what concerns the main folder, files have the following extensions:
